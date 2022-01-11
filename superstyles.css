@@ -1,0 +1,250 @@
+#background {
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+#footer {
+  background-color: #ffc107;
+  margin-top: 15px;
+}
+
+#cta {
+  margin-top: 100px;
+}
+
+#ABOUT-LOUIS {
+  margin-top: 300px;
+}
+
+#final-artist-statemet {
+  padding-top: 700px;
+  padding-bottom: 50px;
+}
+
+#title1 {
+  margin-bottom:25px;
+  margin-top: 160px;
+  margin-right: 400px;
+}
+
+p, h3, h2, h1, em {
+  font-family: 'Libre Baskerville', serif;7
+
+}
+
+p, h3, h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 15% 15%;
+}
+
+
+body {
+  position: relative;
+}
+
+
+.Art-statment-pt1 {
+  margin-left: 30px;
+  font-size: 1.5rem;
+  line-height: 50px;
+}
+
+.footer-txt {
+margin-right: 39%;
+}
+
+.final-description {
+  margin-top: 400px;
+  height: auto;
+  width: 50%;
+  margin-left: 6%;
+}
+
+.bandit {
+  height:auto;
+  width: 25%;
+  margin-left: 37%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.description {
+  text-align: center;
+  color: white;
+}
+
+.COTC {
+  height:auto;
+  width:25%;
+  padding-left: 10px;
+  position: absolute;
+  margin-left: 47%;
+  top: 52.5%;
+}
+
+
+.ABAC {
+  height:auto;
+  width:25%;
+  padding-left: 10px;
+  position: absolute;
+  margin-left: 75%;
+  top: 52.5%;
+}
+
+.pop-description {
+  position: absolute;
+  top: 31%;
+}
+
+.iso {
+  position: absolute;
+  height:auto;
+  width:14%;
+  padding-left: 10px;
+  top: 56.5%;
+  margin-left: 64%;
+}
+
+.help {
+  height:auto;
+  width:100%;
+}
+
+.world-builder {
+  margin: 7% 5%;
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+
+}
+
+.block2 {
+  color: white;
+
+}
+
+
+.igure {
+  height:auto;
+  width:20%;
+  padding-left: 10px;
+  position: absolute;
+  margin-left: 75%;
+  top: 47%;
+}
+
+.pop {
+  height:auto;
+  width:25%;
+  padding-left: 10px;
+  position: absolute;
+  margin-left: 47%;
+  top: 47%;
+}
+
+.flower {
+  position: absolute;
+  height: auto;
+  width: 15%;
+  padding-left: 10px;
+  top: 57.9%;
+  margin-left:50%;
+}
+
+.demon {
+  position: absolute;
+  height:auto;
+  width:46%;
+  padding-left: 10px;
+  top: 72.9%;
+  margin-left: 1.5%;
+}
+
+.sam {
+  height:auto;
+  width: 50%;
+  padding-left: 10px;
+  position: absolute;
+  margin-left: 48%;
+  top: 63%;
+}
+
+.ghost-jumper {
+  position: absolute;
+  height:auto;
+  width:26%;
+  top: 79.5%;
+  margin-left: 1.5%;
+}
+
+.goulberries-jumper {
+  position: absolute;
+  height:auto;
+  width:26%;
+  margin-left: 1.5%;
+  top: 84.5%;
+}
+
+.handy-prac {
+  position: absolute;
+  height:auto;
+  width:35%;
+  padding-left: 10px;
+  top: 79.5%;
+  margin-left: 28.5%;
+}
+
+.comic {
+  width: 35%;
+  height: auto;
+  position: absolute;
+  top: 79.5%;
+  margin-left: 65%;
+}
+
+.pixel-text {
+  margin-left: 38%;
+  margin-top: 30px;
+}
+
+.handy-description {
+  position: absolute;
+  margin-left: 75%;
+  margin-bottom: 30px;
+  top: 31%;
+}
+
+.ghost-flower {
+  height: auto;
+  max-width: 100;
+
+}
+
+.pink-pot {
+  position: absolute;
+  height:auto;
+  width:26%;
+  top: 88%;
+  margin-left: 5%;
+}
+
+.green-pot {
+  position: absolute;
+  height:auto;
+  width:25%;
+  top: 88%;
+  margin-left: 35.5%;
+}
+
+.Artist-Picture {
+  position: absolute;
+  height:auto;
+  width:20%;
+  top: 93%;
+  margin-left: 70%;
+}
